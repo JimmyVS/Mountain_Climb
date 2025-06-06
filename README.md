@@ -35,9 +35,7 @@
 
 ## 🧪 Screenshots / Demo
 
-> _(Add GIFs or images here to show the climbing mechanics and VR experience)_
-
-Demo build coming soon...
+![image](https://github.com/user-attachments/assets/0fdd8639-f968-45ce-a46e-931479a52b8b)
 
 ---
 
