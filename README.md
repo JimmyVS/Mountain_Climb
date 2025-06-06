@@ -28,7 +28,6 @@
 | Grab Hold     | Grip button (L/R)           |
 | Release       | Let go of Grip button       |
 | Climb / Pull  | Move hands while gripping   |
-| Pause Menu    | Menu Button (left controller) |
 
 > The game uses Unity’s XR Interaction Toolkit with continuous locomotion disabled for a climbing-only experience.
 
@@ -48,3 +47,24 @@ Demo build coming soon...
 
 ```bash
 git clone https://github.com/yourusername/vr-mountain-climber.git
+```
+
+### 2. Open in Unity
+- Use Unity 2021.3+ LTS or newer
+- Load the project via Unity Hub
+- Install dependencies (via Package Manager):
+- XR Plugin Management
+- XR Interaction Toolkit
+- Input System
+
+### 3. Configure XR
+- Open Edit > Project Settings > XR Plugin Management
+- Choose your target platform (e.g., Oculus, OpenXR)
+- Set up XR rig in the main scene (already configured in the project)
+
+### 4. Play in VR
+- Connect your VR headset (Quest via Link, Vive, etc.)
+- Press Play in Unity or build the project for PC VR
+
+## 🧾 License
+This project is licensed under the MIT License.
